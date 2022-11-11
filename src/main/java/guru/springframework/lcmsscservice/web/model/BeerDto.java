@@ -1,4 +1,4 @@
-package guru.springframework.lcmsscservice.model;
+package guru.springframework.lcmsscservice.web.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

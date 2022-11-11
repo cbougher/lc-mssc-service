@@ -1,4 +1,4 @@
-package guru.springframework.lcmsscservice.model;
+package guru.springframework.lcmsscservice.web.model;
 
 import org.springframework.data.domain.PageImpl;
 import org.springframework.data.domain.Pageable;
